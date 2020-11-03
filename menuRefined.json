@@ -1,0 +1,75 @@
+{
+	"locationID": "1",
+	"locationName": "408 Exchange",
+	"releaseDate": "2020-10-29",
+	"menu": {
+		"salads": [{
+			"salad1": {
+				"name": "Garden Salad",
+				"description": "Romain Lettuce, Halved Cherry Tomatoes, Red Onion, Cucumber, Avocado Slices, Shredded Mozzarella and your choice of dressing.",
+				"price": "$9.00"
+			},
+			"salad2": {
+				"name": "Caesar Salad",
+				"description": "Romain Lettuce, Shredded Parmesan Cheese, Croutons & Caesar Dressing",
+				"price": "$9.00"
+			},
+			"salad3": {
+				"name": "Smoked Chicken Caesar Salad",
+				"description": "Smoked Chicken, Romain Lettuce, Shredded Parmesan Cheese, Croutons & Caesar Dressing",
+				"price": "$9.00"
+			}
+		}],
+		"pastas": [{
+			"pasta1": {
+				"name": "Entre Title 1",
+				"description": "So tasty the description is awesome",
+				"price": "$20.01"
+			},
+			"pasta2": {
+				"name": "Entre Title 2",
+				"description": "So tasty the description is awesome",
+				"price": "$20.02"
+			},
+			"pasta3": {
+				"name": "Entre Title 3",
+				"description": "So tasty the description is awesome",
+				"price": "$20.03"
+			}
+		}],
+		"sandwiches": [{
+			"sandwich1": {
+				"name": "Sandwich Title 1",
+				"description": "So Tasty the description is awesome 1",
+				"price": "30.01"
+			},
+			"sandwich2": {
+				"name": "Sandwich Title 2",
+				"description": "So Tasty the description is awesome 2",
+				"price": "30.02"
+			},
+			"sandwich3": {
+				"name": "Sandwich Title 3",
+				"description": "So Tasty the description is awesome 3",
+				"price": "30.03"
+			}
+		}],
+		"sides": [{
+			"side1": {
+				"name": "Side Title 1",
+				"description": "So Tasty the description is awesome 1",
+				"price": "5.01"
+			},
+			"side2": {
+				"name": "Side Title 2",
+				"description": "So Tasty the description is awesome 2",
+				"price": "5.02"
+			},
+			"side3": {
+				"name": "Side Title 3",
+				"description": "So Tasty the description is awesome 3",
+				"price": "5.03"
+			}
+		}]
+	}
+}
